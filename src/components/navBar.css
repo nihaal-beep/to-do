@@ -1,0 +1,19 @@
+.link{
+    padding:2em;
+    font-size: 18px;    
+    color:darkgray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.link:visited{
+    color:black;
+    
+}
+
+
+nav{
+    background-color: lightseagreen;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
